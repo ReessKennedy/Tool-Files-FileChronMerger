@@ -2,7 +2,7 @@
 
 A PHP tool designed to transform scattered, on-the-fly text or markdown notes into organized daily summaries that are perfectly compatible with **Obsidian journal pages**.
 
-
+[![Watch the video](https://drive.google.com/thumbnail?id=12OK2bWcNaOAQ3q5nktjkDlMOiwwf99vM&sz=s225)](https://youtu.be/SRoziu4GVn0)
 
 ## Why
 
